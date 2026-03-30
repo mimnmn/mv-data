@@ -2,7 +2,10 @@
   "version": "1.0.0",
   "comics": [
     {
+      "id":"c1",
       "title": "测试漫画",
+      "category": "gif动图",
+      "cover": "https://picsum.photos/400/600",
       "images": [
         "https://picsum.photos/400/600",
         "https://picsum.photos/400/601"
@@ -11,7 +14,10 @@
   ],
   "videos": [
     {
+      "id":"v1",
       "title": "测试视频",
+      "category": "混剪佳作",
+      "cover": "https://picsum.photos/400/600",
       "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
     }
   ]
